@@ -4,12 +4,12 @@ kramdown:
   input: GFM
   hard_wrap: false
   parse_block_html: true
-github: academicpages
+github: a-paxton
 url: https://academicpages.github.io/group-meeting 
 name: Your Group Name
 description: An initial blog and site for your group meeting
-twitter: yourtwitterhandle
-calendar: https://yourcalendarurl
-mailinglist: https://yourmailinglisturl
+#twitter: yourtwitterhandle
+#calendar: https://yourcalendarurl
+#mailinglist: https://yourmailinglisturl
 gravatar_url: 
-disqus_username:
+#disqus_username:
