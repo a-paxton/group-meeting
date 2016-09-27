@@ -3,6 +3,7 @@ layout: post
 title: Topic TBD -- Speaker
 comments: true
 category: past
+description: blah blah blah more description action here
 tags: meeting <+ tags +>
 ---
 
